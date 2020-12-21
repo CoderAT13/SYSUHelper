@@ -1,0 +1,41 @@
+Date : 2020-06-28 22:57:00
+Directory : /Users/zhanghanjian/gitee/go
+Total : 10 files,  481 codes, 7 comments, 73 blanks, all 561 lines
+
+Languages
++--------------+------------+------------+------------+------------+------------+
+| language     | files      | code       | comment    | blank      | total      |
++--------------+------------+------------+------------+------------+------------+
+| Go           |          6 |        454 |          7 |         71 |        532 |
+| JSON         |          3 |         26 |          0 |          2 |         28 |
+| Shell Script |          1 |          1 |          0 |          0 |          1 |
++--------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                         |         10 |        481 |          7 |         73 |        561 |
+| HTTPTest                                                  |          2 |          5 |          0 |          1 |          6 |
+| dal                                                       |          2 |        253 |          2 |         35 |        290 |
+| dal/model                                                 |          2 |        253 |          2 |         35 |        290 |
+| routers                                                   |          2 |        182 |          0 |         31 |        213 |
+| routers/handlers                                          |          1 |        148 |          0 |         23 |        171 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------+--------------+------------+------------+------------+------------+
+| filename                                                  | language     | code       | comment    | blank      | total      |
++-----------------------------------------------------------+--------------+------------+------------+------------+------------+
+| /Users/zhanghanjian/gitee/go/HTTPTest/login.sh            | Shell Script |          1 |          0 |          0 |          1 |
+| /Users/zhanghanjian/gitee/go/HTTPTest/user.json           | JSON         |          4 |          0 |          1 |          5 |
+| /Users/zhanghanjian/gitee/go/dal/model/dealcard.go        | Go           |        152 |          0 |         19 |        171 |
+| /Users/zhanghanjian/gitee/go/dal/model/user.go            | Go           |        101 |          2 |         16 |        119 |
+| /Users/zhanghanjian/gitee/go/initDB.go                    | Go           |         14 |          5 |          2 |         21 |
+| /Users/zhanghanjian/gitee/go/main.go                      | Go           |          5 |          0 |          3 |          8 |
+| /Users/zhanghanjian/gitee/go/routers/handlers/handlers.go | Go           |        148 |          0 |         23 |        171 |
+| /Users/zhanghanjian/gitee/go/routers/routes.go            | Go           |         34 |          0 |          8 |         42 |
+| /Users/zhanghanjian/gitee/go/text.json                    | JSON         |         18 |          0 |          1 |         19 |
+| /Users/zhanghanjian/gitee/go/user.json                    | JSON         |          4 |          0 |          0 |          4 |
+| Total                                                     |              |        481 |          7 |         73 |        561 |
++-----------------------------------------------------------+--------------+------------+------------+------------+------------+

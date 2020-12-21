@@ -1,0 +1,12 @@
+"filename", "language", "JSON", "Go", "Shell Script", "comment", "blank", "total"
+"/Users/zhanghanjian/gitee/go/HTTPTest/login.sh", "Shell Script", 0, 0, 1, 0, 0, 1
+"/Users/zhanghanjian/gitee/go/HTTPTest/user.json", "JSON", 4, 0, 0, 0, 1, 5
+"/Users/zhanghanjian/gitee/go/dal/model/dealcard.go", "Go", 0, 152, 0, 0, 19, 171
+"/Users/zhanghanjian/gitee/go/dal/model/user.go", "Go", 0, 101, 0, 2, 16, 119
+"/Users/zhanghanjian/gitee/go/initDB.go", "Go", 0, 14, 0, 5, 2, 21
+"/Users/zhanghanjian/gitee/go/main.go", "Go", 0, 5, 0, 0, 3, 8
+"/Users/zhanghanjian/gitee/go/routers/handlers/handlers.go", "Go", 0, 148, 0, 0, 23, 171
+"/Users/zhanghanjian/gitee/go/routers/routes.go", "Go", 0, 34, 0, 0, 8, 42
+"/Users/zhanghanjian/gitee/go/text.json", "JSON", 18, 0, 0, 0, 1, 19
+"/Users/zhanghanjian/gitee/go/user.json", "JSON", 4, 0, 0, 0, 0, 4
+"Total", "-", 26, 454, 1, 7, 73, 561

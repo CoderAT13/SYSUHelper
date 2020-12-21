@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="20dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="6dp"
+        app:cardBackgroundColor="@color/colorDark">
+
+
+        <ImageView
+            android:id="@+id/head_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            app:srcCompat="@mipmap/ic_launcher_round" />
+
+        <TextView
+            android:id="@+id/name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="25dp"
+            android:text="CoderAt"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/type_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="25dp"
+            android:text="LOL"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/content_text"
+            android:layout_width="333dp"
+            android:layout_height="93dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="70dp"
+            android:maxWidth="333dp"
+            android:maxHeight="93dp"
+            android:text="信息内容"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/in_sit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="170dp"
+            android:text=""
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/not_sit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="170dp"
+            android:text=""
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="170dp"
+            android:text=""
+            android:textColor="#FFFFFF" />
+
+        <ImageView
+            android:id="@+id/line_ic"
+            android:layout_width="26dp"
+            android:layout_height="56dp"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="7dp"
+            app:srcCompat="@drawable/ic_line" />
+
+        <ImageView
+            android:id="@+id/clock_ic"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="168dp"
+            app:srcCompat="@drawable/ic_time" />
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
